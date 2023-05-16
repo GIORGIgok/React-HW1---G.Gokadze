@@ -1,18 +1,18 @@
 import './App.css';
 import { Header } from './components/common/header';
-import { FirstSection } from './components/common/first-section';
-import { BrandArea } from './components/common/brand-area';
-import { CountArea } from './components/common/count-area';
-import { PortfolioArea } from './components/common/portfolio-area';
-import { UiUxSection } from './components/common/uiux-area-title';
-import { AwesomeCodingArea } from './components/common/awesome-coding';
-import { InnerPageArea } from './components/common/inner-page';
-import { SupportPage } from './components/common/support-page';
-import { FeatureArea } from './components/common/feature-area';
-import { ResponsiveArea } from './components/common/responsive-area';
-import { EcommerceArea } from './components/common/ecommerce-area';
+import { FirstSection } from './components/common/firstSection';
+import { BrandArea } from './components/common/brandArea';
+import { CountArea } from './components/common/countArea';
+import { PortfolioArea } from './components/common/portfolioArea';
+import { UiUxSection } from './components/common/uiUxArea';
+import { AwesomeCodingArea } from './components/common/awesomeCoding';
+import { InnerPageArea } from './components/common/innerPage';
+import { SupportPage } from './components/common/supportPage';
+import { FeatureArea } from './components/common/featureArea';
+import { ResponsiveArea } from './components/common/responsiveArea';
+import { EcommerceArea } from './components/common/ecommerceArea';
 import { Footer } from './components/common/footer';
-import { BgArea } from './components/common/bg-area';
+import { BgArea } from './components/common/bgArea';
 
 function App() {
   return (
